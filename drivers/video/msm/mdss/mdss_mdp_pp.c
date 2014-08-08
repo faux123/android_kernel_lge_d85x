@@ -22,7 +22,6 @@
 #include <mach/msm_bus.h>
 #include <mach/msm_bus_board.h>
 
-<<<<<<< HEAD
 #if defined(CONFIG_LCD_KCAL)
 /* LGE_CHANGE_S
 * change code for LCD KCAL
